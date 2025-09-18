@@ -9,3 +9,4 @@ My Grocery List
 - Bread
 - Strawberries
 - Grapes
+- Chips
